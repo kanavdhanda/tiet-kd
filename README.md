@@ -1,3 +1,1 @@
-# tiet-kd
-
-Beginner Programs created by me while learning Java/C.
+A few Beginner Level programs i created during learning basics in Java/C
